@@ -79,7 +79,7 @@ function startup() {
 	// Middleware
 	app.use(cors());
 
-	app.get('/', (req, res) => res.render('index'));
+	app.get('/', (req, res) => res.json({ msg: 'welcome to uploader-image' }));
 
 	app.post('/upload', (req, res) => {
 		console.log(`📦 +++ new request `);
