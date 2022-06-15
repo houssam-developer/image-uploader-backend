@@ -39,7 +39,7 @@
 
 ![My Image](img/screenshot-demo.png)
 
-:satellite: image-uploader-backend is the API Image Uploader App.
+:satellite: Image Uploader Backend is the API for the [Image Uploader App] (https://github.com/houssam-developer/image-uploader).
 
 Image Uploader app can be found here: "https://uploader-image-backend.herokuapp.com/".
 Thanks to that challenge, I learn to work efficiently in order to succeed.
